@@ -92,7 +92,7 @@ preguntame_sobre:
 <!-- ═══ TROPHIES ═══ -->
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="GitHub Profile Trophy">
-    <img align="center" width="86%" src="https://github-profile-trophy.vercel.app/?username=davidfrodriguezcaicedo-cell&theme=tokyonight&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="GitHub Trophies" />
+    <img align="center" width="86%" src="https://github-profile-trophy.vercel.app/?username=DevDavidR23-cell&theme=tokyonight&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="GitHub Trophies" />
   </a>
 </div>
 
