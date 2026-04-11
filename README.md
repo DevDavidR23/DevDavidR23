@@ -76,14 +76,14 @@ preguntame_sobre:
   <table align="center">
     <tr border="none">
       <td width="50%" align="center">
-        <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=davidfrodriguezcaicedo-cell&theme=tokyonight&show_icons=true&count_private=true&border_radius=12" alt="GitHub Stats"/>
+        <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DevDavidR23&theme=tokyonight&show_icons=true&count_private=true&border_radius=12" alt="GitHub Stats"/>
         <br><br>
-        <img title="🔥 Racha de contribuciones" alt="streak" src="https://streak-stats.demolab.com/?user=davidfrodriguezcaicedo-cell&theme=tokyonight&border_radius=12" />
+        <img title="🔥 Racha de contribuciones" alt="streak" src="https://streak-stats.demolab.com/?user=DevDavidR23&theme=tokyonight&border_radius=12" />
       </td>
       <td width="50%" align="center">
-        <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=davidfrodriguezcaicedo-cell&theme=tokyonight&hide_border=false&no-bg=true&no-frame=true&langs_count=10&border_radius=12&layout=compact" alt="Top Languages"/>
+        <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DevDavidR23&theme=tokyonight&hide_border=false&no-bg=true&no-frame=true&langs_count=10&border_radius=12&layout=compact" alt="Top Languages"/>
         <br><br>
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=davidfrodriguezcaicedo-cell&theme=tokyo-night&bg_color=1a1b27&hide_border=true&radius=8&area=true" alt="Activity Graph" width="98%"/>
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevDavidR23&theme=tokyo-night&bg_color=1a1b27&hide_border=true&radius=8&area=true" alt="Activity Graph" width="98%"/>
       </td>
     </tr>
   </table>
@@ -92,7 +92,7 @@ preguntame_sobre:
 <!-- ═══ TROPHIES ═══ -->
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="GitHub Profile Trophy">
-    <img align="center" width="86%" src="https://github-profile-trophy.vercel.app/?username=DevDavidR23-cell&theme=tokyonight&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="GitHub Trophies" />
+    <img align="center" width="86%" src="https://github-profile-trophy.vercel.app/?username=DevDavidR23&theme=tokyonight&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="GitHub Trophies" />
   </a>
 </div>
 
